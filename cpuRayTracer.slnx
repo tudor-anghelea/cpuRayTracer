@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cpuRayTracer.vcxproj" Id="37290d7e-a4d1-4b75-a164-df0a29b5464c" />
+</Solution>
