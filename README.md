@@ -3,7 +3,7 @@
 A CPU-based path tracer written from scratch in C++. The renderer implements Monte Carlo path tracing with **Next Event Estimation**, **BVH acceleration**, **multithreading**, and **Intel Open Image Denoise** to produce clear image output.
 
 <p align="center">
-  <img src="showcase_scene.png" width="800" alt="Showcase Scene">
+  <img src="images/showcase_scene.png" width="800" alt="Showcase Scene">
 </p>
 
 ## Features
@@ -27,19 +27,19 @@ A CPU-based path tracer written from scratch in C++. The renderer implements Mon
 
 ### Cornell Box
 
-<img src="cornell_box.png" width="500" alt="Cornell Box">
+<img src="images/cornell_box.png" width="500" alt="Cornell Box">
 
 *Classic Cornell Box validating global illumination and color bleeding*
 
 ### BVH Stress Test
 
-<img src="bvh_stress_scene.png" width="500" alt="Stress Scene">
+<img src="images/bvh_stress_scene.png" width="500" alt="Stress Scene">
 
 *Hundreds of diffuse spheres with Lambertian distribution, rendered using BVH acceleration*
 
 ### Showcase Scene
 
-<img src="showcase_scene.png" width="500" alt="Showcase Scene">
+<img src="images/showcase_scene.png" width="500" alt="Showcase Scene">
 
 *Diffuse material showcase demonstrating soft shadows, emissive lighting and light traversal from an object to another*
 
